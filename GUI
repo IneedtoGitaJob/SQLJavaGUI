@@ -35,7 +35,7 @@ public class GUI {
     public GUI() {
 
         
-        JFrame frame = new JFrame("CNT 4714 – Project 1 – Spring 2022");
+        JFrame frame = new JFrame("GUI");
         JPanel Pan = new JPanel();
 
         //Drop down menu
